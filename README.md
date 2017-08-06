@@ -10,4 +10,5 @@ The system is aimed to help the processing of the typical not-so-small unstructu
 MeshLab is mostly based on the open source c++ mesh processing library [VCGlib](http://www.vcglib.net) developed at the [Visual Computing Lab](http://vcg.isti.cnr.it) of [ISTI - CNR](http://www.isti.cnr.it), for all the core mesh processing tasks and it is available for Windows, MacOSX, and Linux. 
 
 Compiling instruction can be found in the [src](https://github.com/cnr-isti-vclab/meshlab/tree/master/src) folder.
- 
+
+Note:  To checkout this (starseeker/meshlab) fully, you will need to do git clone --recursive to get all the submodules.  See https://git-scm.com/book/en/v2/Git-Tools-Submodules for more information. 
