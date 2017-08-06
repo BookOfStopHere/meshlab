@@ -6,28 +6,28 @@ HEADERS       += filter_qhull.h \
 SOURCES       += filter_qhull.cpp \ 
 		qhull_tools.cpp 
 
-HEADERS += 	../../external/qhull-2003.1/src/geom.h \
-		../../external/qhull-2003.1/src/io.h \
-		../../external/qhull-2003.1/src/mem.h \
-		../../external/qhull-2003.1/src/merge.h \
-		../../external/qhull-2003.1/src/poly.h \
-		../../external/qhull-2003.1/src/qhull.h \
-		../../external/qhull-2003.1/src/qset.h \
-		../../external/qhull-2003.1/src/stat.h \
-		../../external/qhull-2003.1/src/user.h 
+HEADERS += 	../../external/qhull/src/geom.h \
+		../../external/qhull/src/io.h \
+		../../external/qhull/src/mem.h \
+		../../external/qhull/src/merge.h \
+		../../external/qhull/src/poly.h \
+		../../external/qhull/src/qhull.h \
+		../../external/qhull/src/qset.h \
+		../../external/qhull/src/stat.h \
+		../../external/qhull/src/user.h 
 
-SOURCES +=	../../external/qhull-2003.1/src/geom.c \
-		../../external/qhull-2003.1/src/geom2.c \
-		../../external/qhull-2003.1/src/global.c \
-		../../external/qhull-2003.1/src/io.c \
-		../../external/qhull-2003.1/src/mem.c \
-		../../external/qhull-2003.1/src/merge.c \
-		../../external/qhull-2003.1/src/poly.c \
-		../../external/qhull-2003.1/src/poly2.c \
-		../../external/qhull-2003.1/src/qconvex.c \
-		../../external/qhull-2003.1/src/qhull.c \
-		../../external/qhull-2003.1/src/qset.c \
-		../../external/qhull-2003.1/src/stat.c \
-		../../external/qhull-2003.1/src/user.c 
+SOURCES +=	../../external/qhull/src/geom.c \
+		../../external/qhull/src/geom2.c \
+		../../external/qhull/src/global.c \
+		../../external/qhull/src/io.c \
+		../../external/qhull/src/mem.c \
+		../../external/qhull/src/merge.c \
+		../../external/qhull/src/poly.c \
+		../../external/qhull/src/poly2.c \
+		../../external/qhull/src/qconvex.c \
+		../../external/qhull/src/qhull.c \
+		../../external/qhull/src/qset.c \
+		../../external/qhull/src/stat.c \
+		../../external/qhull/src/user.c 
 
 TARGET        = filter_qhull

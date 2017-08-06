@@ -17,8 +17,8 @@ Modifications:
 
 ---- muparser_v225
 
----- qhull-2003.1
-Direct expansion of qhull-2003.1.tar.gz. 
+---- qhull
+Direct expansion of qhull.tar.gz. 
 Downloaded from www.qhull.org.
 Modifications:
 * added qmake project files

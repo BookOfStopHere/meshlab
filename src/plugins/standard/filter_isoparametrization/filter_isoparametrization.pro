@@ -24,7 +24,7 @@ SOURCES       += ./filter_isoparametrization.cpp
 
 TARGET        = filter_isoparametrization
 INCLUDEPATH  += ./  \
-                ../../external/levmar-2.3/
+                ../../external/levmar/
 
 win32-msvc2005:QMAKE_CXXFLAGS   +=  /openmp -D_USE_OMP
 win32-msvc2008:QMAKE_CXXFLAGS   +=  /openmp -D_USE_OMP

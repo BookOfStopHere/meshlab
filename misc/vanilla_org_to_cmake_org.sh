@@ -18,9 +18,9 @@ git mv src/external/tsai-* src/external/tsai
 
 # renames imply updates
 git mv src/external/levmar-* src/external/levmar
-find src misc doc -type f -exec perl -0777 -pi -e 's/levmar-2.3/levmar/g' {} \;
+find src misc docs -type f -exec perl -0777 -pi -e 's/levmar-2.3/levmar/g' {} \;
 git mv src/external/qhull-* src/external/qhull
-find src misc doc -type f -exec perl -0777 -pi -e 's/qhull-2003.1/qhull/g' {} \;
+find src misc docs -type f -exec perl -0777 -pi -e 's/qhull-2003.1/qhull/g' {} \;
 
 
 #################################
@@ -33,10 +33,10 @@ git mv src/plugins_unsupported src/plugins/unsupported
 git mv src/sampleplugins src/plugins/sample
 git mv src/fgt src/plugins/fgt
 # fix plugin includes
-find src misc doc -type f -exec perl -0777 -pi -e 's/meshlabplugins/plugins\/standard/g' {} \;
-find src misc doc -type f -exec perl -0777 -pi -e 's/plugins_experimental/plugins\/experimental/g' {} \;
-find src misc doc -type f -exec perl -0777 -pi -e 's/plugins_unsupported/plugins\/unsupported/g' {} \;
-find src misc doc -type f -exec perl -0777 -pi -e 's/sampleplugins/plugins\/sample/g' {} \;
+find src misc docs -type f -exec perl -0777 -pi -e 's/meshlabplugins/plugins\/standard/g' {} \;
+find src misc docs -type f -exec perl -0777 -pi -e 's/plugins_experimental/plugins\/experimental/g' {} \;
+find src misc docs -type f -exec perl -0777 -pi -e 's/plugins_unsupported/plugins\/unsupported/g' {} \;
+find src misc docs -type f -exec perl -0777 -pi -e 's/sampleplugins/plugins\/sample/g' {} \;
 
 #################################
 #         server                #

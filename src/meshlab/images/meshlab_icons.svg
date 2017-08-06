@@ -1826,7 +1826,7 @@
        height="64"
        x="256"
        y="276.36218"
-       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <rect
@@ -1877,7 +1877,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        sodipodi:nodetypes="cccc"
        d="m 72,156.36218 24,32 24,-40 -48,8 z"
        stroke-miterlimit="79.8403193612775"
@@ -1890,7 +1890,7 @@
        stroke-miterlimit="79.8403193612775"
        id="path5336"
        style="font-size:16px;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:79.84031677;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:none;display:inline;font-family:Times New Roman"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:connector-curvature="0" />
@@ -1900,7 +1900,7 @@
        stroke-miterlimit="79.8403193612775"
        d="m 456,169.36218 8,-16 8,-13 16,13 16,11 -24,5 -8,0 -16,0 z"
        sodipodi:nodetypes="cccccccc"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:connector-curvature="0" />
@@ -1933,7 +1933,7 @@
        stroke-miterlimit="79.8403193612775"
        d="m 200,156.36218 24,32 24,-40 -48,8 z"
        sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:connector-curvature="0" />
@@ -1942,7 +1942,7 @@
        stroke-miterlimit="79.8403193612775"
        id="g4752"
        transform="matrix(1.627429,0,0,-1.485469,-610.8153,417.8929)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -1966,7 +1966,7 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(20,44)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -1979,7 +1979,7 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(68,36)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -1992,14 +1992,14 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(44,76)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        style="font-size:16px;fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;font-family:Times New Roman"
        id="Group_24"
        transform="matrix(1.480692,0.277825,0.277825,-1.480692,-129.2138,477.1482)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/editmeasure/images/icon_measure.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/editmeasure/images/icon_measure.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -2366,7 +2366,7 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(212,40)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -2379,7 +2379,7 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(260,32)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -2392,7 +2392,7 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(236,72)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -2401,7 +2401,7 @@
        stroke-miterlimit="79.8403193612775"
        d="m 480,140.36218 28.00001,0.16666 -4.00001,15.83334 -24,-16 z"
        sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:connector-curvature="0" />
@@ -2415,7 +2415,7 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(340,39.999996)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_point.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_point.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -2428,7 +2428,7 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(388,31.999996)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_point.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_point.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -2441,13 +2441,13 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(364,72)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_point.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_point.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        transform="translate(352,28)"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        sodipodi:ry="4"
@@ -2460,7 +2460,7 @@
     <g
        id="g5354"
        transform="translate(64.00554,0)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_point.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_point.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -2483,7 +2483,7 @@
        d="m 554.50064,161.42444 16.15626,15.85027 -6.65136,1.08747 5.85936,12.50294 -5.00693,2.17829 L 560,180.10482 l -5.36528,4.14046 -0.13408,-22.82084 z"
        id="path5360"
        sodipodi:nodetypes="cccccccc"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_point.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_point.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:connector-curvature="0" />
@@ -2493,14 +2493,14 @@
        stroke-miterlimit="79.8403193612775"
        id="path5362"
        style="font-size:16px;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:79.84031677;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:none;display:inline;font-family:Times New Roman"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face_connected.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face_connected.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:connector-curvature="0" />
     <g
        transform="matrix(1,0,0,-1,131.00554,328.98172)"
        id="g5364"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face_connected.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face_connected.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -2521,7 +2521,7 @@
     <g
        id="g5370"
        transform="translate(128.00554,-0.7426322)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face_connected.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face_connected.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -2544,7 +2544,7 @@
        d="m 618.50064,160.6818 16.15626,15.85027 -6.65136,1.08747 5.85936,12.50294 -5.00693,2.17829 L 624,179.36218 l -5.36528,4.14046 -0.13408,-22.82084 z"
        id="path5376"
        sodipodi:nodetypes="cccccccc"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face_connected.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face_connected.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:connector-curvature="0" />
@@ -2554,13 +2554,13 @@
        stroke-miterlimit="79.8403193612775"
        d="m 464,153.36218 24,0 -8,16 -16,-16 z"
        sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:connector-curvature="0" />
     <g
        id="g5350"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -2583,7 +2583,7 @@
        id="path5330"
        d="m 490.4951,161.42444 16.15626,15.85027 -6.65136,1.08747 5.85936,12.50294 -5.00693,2.17829 -4.85797,-12.93859 -5.36528,4.14046 -0.13408,-22.82084 z"
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.25000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:connector-curvature="0" />
@@ -2724,7 +2724,7 @@
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        transform="matrix(1.627429,0,0,-1.485469,-738.8153,417.8929)"
        id="g3727"
        stroke-miterlimit="79.8403193612775"
@@ -2743,7 +2743,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        transform="translate(-108,44)"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        sodipodi:ry="4"
@@ -2756,7 +2756,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        transform="translate(-60,36)"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        sodipodi:ry="4"
@@ -2769,7 +2769,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        transform="translate(-84,76)"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        sodipodi:ry="4"
@@ -3174,7 +3174,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        transform="translate(252,48)"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        sodipodi:ry="4"
@@ -3194,13 +3194,13 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(224,28)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_point.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_point.png"
        transform="translate(364,72)"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        sodipodi:ry="4"
@@ -3307,7 +3307,7 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(380,48)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_point.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_point.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -3598,7 +3598,7 @@
        d="m 528,316.36218 -8,-16 48,-8 0,40 z"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_edge.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_edge.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <path
@@ -3608,7 +3608,7 @@
        id="path4194"
        style="font-size:16px;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:79.84031677;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:none;display:inline;font-family:Times New Roman"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_edge.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_edge.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <path
@@ -3617,7 +3617,7 @@
        id="path4196"
        d="m 568,292.36218 -48,8"
        style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.7, 1.4;stroke-dashoffset:0"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_edge.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_edge.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <path
@@ -3627,7 +3627,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        transform="matrix(1,0,0,-1,75,476.72436)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_edge.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_edge.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <path
@@ -3637,7 +3637,7 @@
        stroke-miterlimit="79.8403193612775"
        id="path4232"
        style="font-size:16px;fill:#eaeaea;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:79.84031677;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:none;display:inline;font-family:Times New Roman"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_vertex.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_vertex.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <path
@@ -3647,7 +3647,7 @@
        d="m 480,300.36218 -3,-19 27,11 4,15 -4,17 z"
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_vertex.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_vertex.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <path
@@ -3657,7 +3657,7 @@
        d="m 493,184.36218 -40,-24"
        style="fill:none;stroke:#ff00ea;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4228)"
        transform="matrix(1,0,0,-1,75,476.72436)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_edge.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_edge.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <path
@@ -3666,7 +3666,7 @@
        id="path4243"
        d="m 452,300.36218 28,0 -16,24"
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_vertex.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_vertex.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <path
@@ -3675,7 +3675,7 @@
        id="path4245"
        d="m 504,292.36218 -24,8 28,7"
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_vertex.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_vertex.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <path
@@ -3684,7 +3684,7 @@
        id="path4247"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_edge.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_edge.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <path
@@ -3715,13 +3715,13 @@
        sodipodi:ry="4"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        transform="translate(300,188)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_vertex.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_vertex.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <path
        inkscape:export-ydpi="360"
        inkscape:export-xdpi="360"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_vertex.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_vertex.png"
        transform="translate(300,188)"
        d="m 184,112.36218 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
        sodipodi:ry="4"
@@ -3847,7 +3847,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path3413"
@@ -3856,7 +3856,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path3415"
@@ -3865,7 +3865,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 288,308.36218 -24,8"
          id="path3419"
@@ -3873,7 +3873,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:transform-center-y="14.999997"
          inkscape:transform-center-x="-3"
          inkscape:connector-curvature="0"
@@ -3883,7 +3883,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4214"
          d="m 288,312.36218 -24,8"
@@ -3891,7 +3891,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 288,304.36218 -24,8"
          id="path4216"
@@ -3899,7 +3899,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4218"
          d="m 288,292.36218 -24,8"
@@ -3907,7 +3907,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 288,296.36218 -24,8"
          id="path4220"
@@ -3915,7 +3915,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4222"
          d="m 288,288.36218 -24,8"
@@ -3923,7 +3923,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4224"
          d="m 288,308.36218 24,8"
@@ -3931,7 +3931,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 288,300.36218 24,8"
          id="path4226"
@@ -3941,7 +3941,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 288,312.36218 24,8"
          id="path4230"
@@ -3949,7 +3949,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4233"
          d="m 288,304.36218 24,8"
@@ -3957,7 +3957,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 288,292.36218 24,8"
          id="path4235"
@@ -3965,7 +3965,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4237"
          d="m 288,296.36218 24,8"
@@ -3973,7 +3973,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 288,288.36218 24,8"
          id="path4239"
@@ -3981,7 +3981,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:transform-center-y="14.999997"
          inkscape:transform-center-x="3"
          inkscape:connector-curvature="0"
@@ -3991,7 +3991,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.40000000000000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 285,317.36218 24,8"
          id="path4250"
@@ -3999,7 +3999,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4252"
          d="m 279,319.36218 24,8"
@@ -4007,7 +4007,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.40000000000000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 282,318.36218 24,8"
          id="path4254"
@@ -4015,7 +4015,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4258"
          d="m 273,321.36218 24,8"
@@ -4023,7 +4023,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.40000000000000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 267,323.36218 24,8"
          id="path4260"
@@ -4031,7 +4031,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4262"
          d="m 270,322.36218 24,8"
@@ -4039,7 +4039,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 300,320.36218 -24,8"
          id="path4264"
@@ -4049,7 +4049,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4266"
          d="m 291,317.36218 -24,8"
@@ -4057,7 +4057,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.40000000000000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 297,319.36218 -24,8"
          id="path4268"
@@ -4065,7 +4065,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4270"
          d="m 294,318.36218 -24,8"
@@ -4073,7 +4073,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.40000000000000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 303,321.36218 -24,8"
          id="path4275"
@@ -4081,7 +4081,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4277"
          d="m 309,323.36218 -24,8"
@@ -4089,7 +4089,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.40000000000000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 306,322.36218 -24,8"
          id="path4279"
@@ -4097,7 +4097,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4281"
          d="m 300,320.36218 0,-32"
@@ -4105,7 +4105,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 297,319.36218 0,-32"
          id="path4283"
@@ -4113,7 +4113,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4285"
          d="m 294,318.36218 0,-32"
@@ -4121,7 +4121,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 291,317.36218 0,-32"
          id="path4287"
@@ -4129,7 +4129,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4289"
          d="m 309,323.36218 0,-32"
@@ -4137,7 +4137,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 306,322.36218 0,-32"
          id="path4291"
@@ -4145,7 +4145,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4293"
          d="m 303,321.36218 0,-32"
@@ -4153,7 +4153,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 276,320.36218 0,-32"
          id="path4295"
@@ -4161,7 +4161,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4297"
          d="m 279,319.36218 0,-32"
@@ -4169,7 +4169,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 282,318.36218 0,-32"
          id="path4299"
@@ -4177,7 +4177,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4301"
          d="m 285,317.36218 0,-32"
@@ -4185,7 +4185,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 267,323.36218 0,-32"
          id="path4303"
@@ -4193,7 +4193,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          inkscape:connector-curvature="0"
          id="path4305"
          d="m 270,322.36218 0,-32"
@@ -4201,7 +4201,7 @@
       <path
          inkscape:export-ydpi="360"
          inkscape:export-xdpi="360"
-         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/decorate_background/show_background_grid.png"
+         inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/decorate_background/show_background_grid.png"
          style="fill:none;stroke:url(#radialGradient4547);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 273,321.36218 0,-32"
          id="path4307"
@@ -4227,7 +4227,7 @@
        height="64"
        x="192"
        y="132.36218"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -4237,7 +4237,7 @@
        height="64"
        x="256"
        y="132.36218"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/editmeasure/images/icon_measure.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/editmeasure/images/icon_measure.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -4250,7 +4250,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/meshselect/images/delete_facevert.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/meshselect/images/delete_facevert.png"
        y="132.36218"
        x="384"
        height="64"
@@ -4260,7 +4260,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face.png"
        y="132.36218"
        x="448"
        height="64"
@@ -4274,7 +4274,7 @@
        height="64"
        x="512"
        y="132.36218"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_point.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_point.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -4284,7 +4284,7 @@
        height="64"
        x="576"
        y="132.36218"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/edit_select/images/select_face_connected.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/edit_select/images/select_face_connected.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -4317,7 +4317,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/editmeasure/images/icon_measure.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/editmeasure/images/icon_measure.png"
        y="204.36218"
        x="384"
        height="64"
@@ -4331,13 +4331,13 @@
        width="64"
        id="rect3741"
        style="fill:none;stroke:none;display:inline"
-       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/filter_select/images/delete_vert.png"
+       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/filter_select/images/delete_vert.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/filter_select/images/new_project.png"
+       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/filter_select/images/new_project.png"
        style="fill:none;stroke:none;display:inline"
        id="rect5375"
        width="64"
@@ -4351,13 +4351,13 @@
        width="64"
        id="rect5377"
        style="fill:none;stroke:none;display:inline"
-       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/filter_select/images/import_mesh.png"
+       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/filter_select/images/import_mesh.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/filter_select/images/open_project.png"
+       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/filter_select/images/open_project.png"
        style="fill:none;stroke:none;display:inline"
        id="rect5379"
        width="64"
@@ -4371,7 +4371,7 @@
        width="64"
        id="rect5381"
        style="fill:none;stroke:none;display:inline"
-       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/filter_select/images/snapshot.png"
+       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/filter_select/images/snapshot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -4391,13 +4391,13 @@
        height="64"
        x="448"
        y="204.36218"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/editmeasure/images/icon_measure.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/editmeasure/images/icon_measure.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/editmeasure/images/icon_measure.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/editmeasure/images/icon_measure.png"
        y="204.36218"
        x="512"
        height="64"
@@ -4411,7 +4411,7 @@
        height="64"
        x="576"
        y="204.36218"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/editmeasure/images/icon_measure.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/editmeasure/images/icon_measure.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -4451,13 +4451,13 @@
        height="64"
        x="384"
        y="276.36218"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/editmeasure/images/icon_measure.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/editmeasure/images/icon_measure.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        inkscape:export-ydpi="360"
        inkscape:export-xdpi="360"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_vertex.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_vertex.png"
        y="276.36218"
        x="448"
        height="64"
@@ -4471,7 +4471,7 @@
        height="64"
        x="512"
        y="276.36218"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/show_nonmanifold_edge.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/show_nonmanifold_edge.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
     <rect
@@ -4491,13 +4491,13 @@
        height="64"
        x="640"
        y="276.36218"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/editmeasure/images/icon_measure.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/editmeasure/images/icon_measure.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/editmeasure/images/icon_measure.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/editmeasure/images/icon_measure.png"
        y="276.36218"
        x="640"
        height="64"

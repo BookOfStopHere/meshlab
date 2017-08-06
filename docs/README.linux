@@ -42,18 +42,18 @@ lrwxrwxrwx  1 mario mario   3 2005-10-19 19:59 sf -> vcg
 
 - Compilation, Plugins
 
-First you need to compile plugins, so switch to meshlab/src/meshlabplugins directory:
+First you need to compile plugins, so switch to meshlab/src/plugins/standard directory:
 
-mario@ath64:~/src/meshlab/src$ cd meshlabplugins/
-mario@ath64:~/src/meshlab/src/meshlabplugins$ ls
+mario@ath64:~/src/meshlab/src$ cd plugins/standard/
+mario@ath64:~/src/meshlab/src/plugins/standard$ ls
 CVS    meshdecorate  meshio              meshrender
-dummy  meshcolorize  meshfilter    meshlabplugins.pro
+dummy  meshcolorize  meshfilter    plugins/standard.pro
 
 the run qmake to create the Makefile
 
-mario@ath64:~/src/meshlab/src/meshlabplugins$ ls
+mario@ath64:~/src/meshlab/src/plugins/standard$ ls
 CVS    Makefile      meshdecorate  meshio              meshrender
-dummy  meshcolorize  meshfilter    meshlabplugins.pro
+dummy  meshcolorize  meshfilter    plugins/standard.pro
 
 now run make to build the plugins in ../meshlab/plugins directory 
 (in this example ~/src/meshlab/src/meshlab/plugins)

@@ -5570,7 +5570,7 @@
      transform="matrix(1.836638,0,0,1.836638,-424.3917,-300.5596)"
      inkscape:export-xdpi="471.64999"
      inkscape:export-ydpi="471.64999"
-     inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/editalign/images/icon_align.png" />
+     inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/editalign/images/icon_align.png" />
   <text
      xml:space="preserve"
      style="font-size:9.60000038px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times"
@@ -5580,7 +5580,7 @@
      sodipodi:linespacing="125%"
      inkscape:transform-center-x="-2.2011998"
      inkscape:transform-center-y="4.0400391"
-     inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/meshlabplugins/editalign/images/icon_align.png"
+     inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/standard/editalign/images/icon_align.png"
      inkscape:export-xdpi="471.64999"
      inkscape:export-ydpi="471.64999"><tspan
        sodipodi:role="line"

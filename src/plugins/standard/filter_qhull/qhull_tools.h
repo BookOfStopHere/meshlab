@@ -55,14 +55,14 @@ extern "C"
 #endif
 #include <stdio.h>
 #include <stdlib.h>
-#include "../../external/qhull-2003.1/src/qhull.h"
-#include "../../external/qhull-2003.1/src/mem.h"
-#include "../../external/qhull-2003.1/src/qset.h"
-#include "../../external/qhull-2003.1/src/geom.h"
-#include "../../external/qhull-2003.1/src/merge.h"
-#include "../../external/qhull-2003.1/src/poly.h"
-#include "../../external/qhull-2003.1/src/io.h"
-#include "../../external/qhull-2003.1/src/stat.h"
+#include "../../external/qhull/src/qhull.h"
+#include "../../external/qhull/src/mem.h"
+#include "../../external/qhull/src/qset.h"
+#include "../../external/qhull/src/geom.h"
+#include "../../external/qhull/src/merge.h"
+#include "../../external/qhull/src/poly.h"
+#include "../../external/qhull/src/io.h"
+#include "../../external/qhull/src/stat.h"
 #if defined(__cplusplus)
 }
 #endif

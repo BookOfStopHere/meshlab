@@ -17,12 +17,12 @@ SUBDIRS       = meshfilter \
 				editpaint \
 				editalign\
 				editmeasure\
-				../sampleplugins/sampleedit \
-				../sampleplugins/samplefilter \
-				../sampleplugins/sampledecoration \
-				../sampleplugins/filterborder \
-				../sampleplugins/filtergeodesic \
-				../sampleplugins/filtercreateiso \
+				../plugins/sample/sampleedit \
+				../plugins/sample/samplefilter \
+				../plugins/sample/sampledecoration \
+				../plugins/sample/filterborder \
+				../plugins/sample/filtergeodesic \
+				../plugins/sample/filtercreateiso \
 				../fgt/edit_quality \
 				../fgt/edit_quality/filter_quality 
 				

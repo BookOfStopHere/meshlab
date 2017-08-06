@@ -153,13 +153,13 @@
        sodipodi:ry="155.71428"
        d="m 497.14284,353.79074 a 155.71428,155.71428 0 1 1 -311.42856,0 155.71428,155.71428 0 1 1 311.42856,0 z"
        transform="matrix(0.09633027,0,0,0.09633031,52.110093,323.28141)"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/render_radiance_scaling/litSpheres/sp00.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/render_radiance_scaling/litSpheres/sp00.png"
        inkscape:export-xdpi="384"
        inkscape:export-ydpi="384" />
     <path
        inkscape:export-ydpi="384"
        inkscape:export-xdpi="384"
-       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/meshlabplugins/render_radiance_scaling/litSpheres/sp01.png"
+       inkscape:export-filename="/Users/cignoni/devel/meshlab/src/plugins/standard/render_radiance_scaling/litSpheres/sp01.png"
        transform="matrix(0.09633027,0,0,0.09633031,87.110095,323.28141)"
        d="m 497.14284,353.79074 a 155.71428,155.71428 0 1 1 -311.42856,0 155.71428,155.71428 0 1 1 311.42856,0 z"
        sodipodi:ry="155.71428"

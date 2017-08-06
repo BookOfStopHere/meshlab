@@ -37,8 +37,8 @@ parts:
     prepare: |
       ln -sf ../vcglib/install ../vcglib 
       sed -i '/filter_csg/d' src/meshlab_full.pro
-      sed -i -e '2ilinux:QMAKE_LFLAGS += -fopenmp -lgomp\' src/meshlabplugins/filter_screened_poisson/filter_screened_poisson.pro
-      sed -i 's|PR_XXXXXX|/tmp/PR_XXXXXX|' src/meshlabplugins/filter_screened_poisson/Src/Geometry.cpp
+      sed -i -e '2ilinux:QMAKE_LFLAGS += -fopenmp -lgomp\' src/plugins/standard/filter_screened_poisson/filter_screened_poisson.pro
+      sed -i 's|PR_XXXXXX|/tmp/PR_XXXXXX|' src/plugins/standard/filter_screened_poisson/Src/Geometry.cpp
     build: |
       cd src/external
       qmake external.pro
@@ -47,9 +47,9 @@ parts:
       qmake meshlab_full.pro
       make -j4
     install: |
-      cp src/meshlabplugins/filter_screened_poisson/filter_screened_poisson.xml \
-          src/meshlabplugins/filter_mutualinfoxml/filter_mutualinfo.xml \
-          src/meshlabplugins/filter_measure/filter_measure.xml \
+      cp src/plugins/standard/filter_screened_poisson/filter_screened_poisson.xml \
+          src/plugins/standard/filter_mutualinfoxml/filter_mutualinfo.xml \
+          src/plugins/standard/filter_measure/filter_measure.xml \
           src/distrib/plugins/
       cd src/distrib
       mkdir -p $SNAPCRAFT_PART_INSTALL/bin

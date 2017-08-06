@@ -22,12 +22,12 @@
 ****************************************************************************/
 /****************************************************************************
   History
-$Log: sampleplugins.h,v $
+$Log: plugins/sample.h,v $
 Revision 1.2  2006/11/29 00:59:21  cignoni
 Cleaned plugins interface; changed useless help class into a plain string
 
 Revision 1.1  2006/09/25 09:24:39  e_cerisoli
-add sampleplugins
+add plugins/sample
 
 ****************************************************************************/
 

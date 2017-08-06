@@ -5,77 +5,77 @@ SUBDIRS       = common \
                 meshlab \
                 meshlabserver \
 # IO plugins
-                meshlabplugins/io_3ds\
-                meshlabplugins/io_base\
-                meshlabplugins/io_bre \
-                meshlabplugins/io_collada \
-                meshlabplugins/io_ctm \
-                meshlabplugins/io_expe \
-                meshlabplugins/io_json \
-                meshlabplugins/io_tri\
-                meshlabplugins/io_x3d \
-                meshlabplugins/io_pdb \
-                meshlabplugins/io_txt \
-                meshlabplugins/io_u3d\
+                plugins/standard/io_3ds\
+                plugins/standard/io_base\
+                plugins/standard/io_bre \
+                plugins/standard/io_collada \
+                plugins/standard/io_ctm \
+                plugins/standard/io_expe \
+                plugins/standard/io_json \
+                plugins/standard/io_tri\
+                plugins/standard/io_x3d \
+                plugins/standard/io_pdb \
+                plugins/standard/io_txt \
+                plugins/standard/io_u3d\
 # Filter plugins
-                meshlabplugins/filter_aging \
-                meshlabplugins/filter_ao \
-                meshlabplugins/filter_bnpts \
-                meshlabplugins/filter_camera \
-                meshlabplugins/filter_clean \
-                meshlabplugins/filter_color_projection \
-                meshlabplugins/filter_colorize \
-                meshlabplugins/filter_colorproc \
-                meshlabplugins/filter_create \
-                meshlabplugins/filter_csg \
-                meshlabplugins/filter_dirt \
-                meshlabplugins/filter_fractal \
-                meshlabplugins/filter_func \
-                meshlabplugins/filter_img_patch_param \
-                meshlabplugins/filter_isoparametrization \
-                meshlabplugins/filter_layer \
-                meshlabplugins/filter_measure \
-                meshlabplugins/filter_meshing \
-                meshlabplugins/filter_mls \
-                meshlabplugins/filter_mutualglobal \
-                meshlabplugins/filter_mutualinfoxml \
-                meshlabplugins/filter_plymc \
-                meshlabplugins/filter_qhull \
-                meshlabplugins/filter_quality \
-                meshlabplugins/filter_sampling \
-                meshlabplugins/filter_screened_poisson \
-                meshlabplugins/filter_sdfgpu \
-                meshlabplugins/filter_select \
-                meshlabplugins/filter_sketchfab \
-                meshlabplugins/filter_ssynth \
-                meshlabplugins/filter_texture \
-                meshlabplugins/filter_trioptimize \
-                meshlabplugins/filter_unsharp \
-                meshlabplugins/filter_voronoi \
+                plugins/standard/filter_aging \
+                plugins/standard/filter_ao \
+                plugins/standard/filter_bnpts \
+                plugins/standard/filter_camera \
+                plugins/standard/filter_clean \
+                plugins/standard/filter_color_projection \
+                plugins/standard/filter_colorize \
+                plugins/standard/filter_colorproc \
+                plugins/standard/filter_create \
+                plugins/standard/filter_csg \
+                plugins/standard/filter_dirt \
+                plugins/standard/filter_fractal \
+                plugins/standard/filter_func \
+                plugins/standard/filter_img_patch_param \
+                plugins/standard/filter_isoparametrization \
+                plugins/standard/filter_layer \
+                plugins/standard/filter_measure \
+                plugins/standard/filter_meshing \
+                plugins/standard/filter_mls \
+                plugins/standard/filter_mutualglobal \
+                plugins/standard/filter_mutualinfoxml \
+                plugins/standard/filter_plymc \
+                plugins/standard/filter_qhull \
+                plugins/standard/filter_quality \
+                plugins/standard/filter_sampling \
+                plugins/standard/filter_screened_poisson \
+                plugins/standard/filter_sdfgpu \
+                plugins/standard/filter_select \
+                plugins/standard/filter_sketchfab \
+                plugins/standard/filter_ssynth \
+                plugins/standard/filter_texture \
+                plugins/standard/filter_trioptimize \
+                plugins/standard/filter_unsharp \
+                plugins/standard/filter_voronoi \
 # Rendering and Decoration Plugins
-                meshlabplugins/render_gdp \
-                meshlabplugins/render_radiance_scaling \
-                meshlabplugins/decorate_base \
-                meshlabplugins/decorate_background \
-                meshlabplugins/decorate_raster_proj \
-                meshlabplugins/decorate_shadow \
+                plugins/standard/render_gdp \
+                plugins/standard/render_radiance_scaling \
+                plugins/standard/decorate_base \
+                plugins/standard/decorate_background \
+                plugins/standard/decorate_raster_proj \
+                plugins/standard/decorate_shadow \
 # Edit Plugins
-                meshlabplugins/edit_align \
-                meshlabplugins/edit_manipulators \
-                meshlabplugins/edit_measure \
-                meshlabplugins/edit_mutualcorrs \
-                meshlabplugins/edit_paint\
-                meshlabplugins/edit_pickpoints \
-                meshlabplugins/edit_point\
-                meshlabplugins/edit_referencing \
-                meshlabplugins/edit_quality \
-                meshlabplugins/edit_select \
+                plugins/standard/edit_align \
+                plugins/standard/edit_manipulators \
+                plugins/standard/edit_measure \
+                plugins/standard/edit_mutualcorrs \
+                plugins/standard/edit_paint\
+                plugins/standard/edit_pickpoints \
+                plugins/standard/edit_point\
+                plugins/standard/edit_referencing \
+                plugins/standard/edit_quality \
+                plugins/standard/edit_select \
 # Sample Plugins
-                sampleplugins/sampleedit \
-                sampleplugins/samplefilter \
-                sampleplugins/samplefilterdyn \     
-                sampleplugins/filter_createiso \
-                sampleplugins/filter_geodesic \
-				sampleplugins/sample_filtergpu \
+                plugins/sample/sampleedit \
+                plugins/sample/samplefilter \
+                plugins/sample/samplefilterdyn \     
+                plugins/sample/filter_createiso \
+                plugins/sample/filter_geodesic \
+				plugins/sample/sample_filtergpu \
 
 

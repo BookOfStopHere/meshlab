@@ -37,10 +37,10 @@ parts:
     prepare: |
       ln -sf ../vcglib/install ../vcglib 
       sed -i '/filter_csg/d' src/meshlab_full.pro
-      sed -i '/plugins_experimental\/io_TXT/d' src/meshlab_full.pro
-      sed -i 's| abs(| qAbs(|' src/meshlabplugins/edit_quality/eqhandle.cpp
-      sed -i -e '2ilinux:QMAKE_LFLAGS += -fopenmp -lgomp\' src/meshlabplugins/filter_screened_poisson/filter_screened_poisson.pro
-      sed -i 's|PR_XXXXXX|/tmp/PR_XXXXXX|' src/meshlabplugins/filter_screened_poisson/Src/Geometry.cpp
+      sed -i '/plugins/experimental\/io_TXT/d' src/meshlab_full.pro
+      sed -i 's| abs(| qAbs(|' src/plugins/standard/edit_quality/eqhandle.cpp
+      sed -i -e '2ilinux:QMAKE_LFLAGS += -fopenmp -lgomp\' src/plugins/standard/filter_screened_poisson/filter_screened_poisson.pro
+      sed -i 's|PR_XXXXXX|/tmp/PR_XXXXXX|' src/plugins/standard/filter_screened_poisson/Src/Geometry.cpp
     build: |
       rm -f -r src/distrib/plugins/U3D_OSX
       rm -f -r src/distrib/plugins/U3D_W32
@@ -51,9 +51,9 @@ parts:
       qmake meshlab_full.pro
       make -j4
     install: |
-      cp src/meshlabplugins/filter_screened_poisson/filter_screened_poisson.xml \
-          src/meshlabplugins/filter_mutualinfoxml/filter_mutualinfo.xml \
-          src/meshlabplugins/filter_measure/filter_measure.xml \
+      cp src/plugins/standard/filter_screened_poisson/filter_screened_poisson.xml \
+          src/plugins/standard/filter_mutualinfoxml/filter_mutualinfo.xml \
+          src/plugins/standard/filter_measure/filter_measure.xml \
           src/distrib/plugins/
       rm -f -r src/distrib/plugins/OSX_U3D
       rm -f -r src/distrib/plugins/OSX_W32

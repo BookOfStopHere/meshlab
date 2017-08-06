@@ -13,7 +13,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.46"
-   sodipodi:docbase="/Users/cignoni/Documents/devel/meshlab/src/sampleplugins/sampleedit"
+   sodipodi:docbase="/Users/cignoni/Documents/devel/meshlab/src/plugins/sample/sampleedit"
    sodipodi:docname="icon_info.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -80,7 +80,7 @@
        y="398.28107"
        id="text1872"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/sampleplugins/sampleedit/path1876.png"
+       inkscape:export-filename="/Users/cignoni/Documents/devel/meshlab/src/plugins/sample/sampleedit/path1876.png"
        inkscape:export-xdpi="471.64999"
        inkscape:export-ydpi="471.64999"><tspan
          sodipodi:role="line"

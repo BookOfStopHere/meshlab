@@ -19,7 +19,7 @@ svn export --force $VCGURL $TMP/$MLABDIR
 cd $TMP/$MLABDIR
 
 mv meshlab/src/external $TMP/$LIBDIR/meshlab/src
-rm -rf CVSROOT meshlab/web meshlab/src/old meshlab/src/sample meshlab/src/meshlabplugins/edit_phototexturing meshlab/src/meshlab/textures meshlab/src/meshlab/plugins/U3D_OSX meshlab/src/meshlab/plugins/U3D_W32 meshlab/src/external
+rm -rf CVSROOT meshlab/web meshlab/src/old meshlab/src/sample meshlab/src/plugins/standard/edit_phototexturing meshlab/src/meshlab/textures meshlab/src/meshlab/plugins/U3D_OSX meshlab/src/meshlab/plugins/U3D_W32 meshlab/src/external
 mkdir -p meshlab/src/meshlab/plugins/U3D_W32
 mkdir -p meshlab/src/meshlab/plugins/U3D_OSX
 mkdir -p meshlab/src/external
