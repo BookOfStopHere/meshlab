@@ -1,0 +1,3 @@
+[submodule "src/external/vcglib"]
+	path = src/external/vcglib
+	url = https://github.com/starseeker/vcglib
